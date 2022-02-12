@@ -1,0 +1,5 @@
+Nous avons tous travaillé au prétraitement des données.
+Nous avons tous participé à l'approche Bi-LSTM.
+Alexandre a fait l'état de l'art.
+Lamia a fait les parties CRF et glove + Bi-LSTM + CRF.
+Samuel a fait la partie Bert.

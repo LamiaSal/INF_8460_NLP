@@ -1,0 +1,10 @@
+pandas
+matplotlib
+os
+sklearn
+nltk
+numpy
+tensorflow
+tqdm
+string
+gensim

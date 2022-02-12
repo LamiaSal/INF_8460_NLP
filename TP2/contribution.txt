@@ -1,0 +1,10 @@
+Nous avons tous travaillé sur l'ensemble du TP. En particulier :
+
+Alexandre Bruguier,  a travaillé principalement sur les questions 5.1 et 5.2.
+
+Samuel Reyd, a travaillé principalement sur les questions 5.1 et 5.2 ainsi que sur l'amélioration des modèles de bilstm sans plongement et avec plongement. Il a également-ris part à la rédaction de la partie 5.4.
+
+
+Lamia Salhi, a travaillé sur les questions 5.1 et 5.2 ainsi que sur l'implémentation de des BILSTM sans logements et avec plongements (5.3). Et sur l'amélioration des modèles et sur les questions 5.4.
+
+Finalement, Samuel Reyd et Lamia Salhi ont contribué à la rédaction et à l'organisation du notebook.
